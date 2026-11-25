@@ -4,5 +4,5 @@ resources:
   - ../../base
 images:
   - name: lab-app
-    newName: <REGISTRY>/<usuario>/lab-app  # trocar pelo registry e usuário do aluno
+    newName: image-registry.openshift-image-registry.svc:5000/matheussilva-dev/lab-app
     newTag: v1

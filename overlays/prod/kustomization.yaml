@@ -5,4 +5,4 @@ resources:
 images:
   - name: lab-app
     newName: image-registry.openshift-image-registry.svc:5000/matheussilva-dev/lab-app
-    digest: sha256:95ae263edfb7d781bbda5605129ddedaa4bf29f6a9c37d09ab924de66a316a15  # lab-app v2 (commit f9d694b)
+    newTag: v1
